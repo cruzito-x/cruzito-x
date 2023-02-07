@@ -19,12 +19,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=25,DC4496,05B0FF" alt="cruzito-exe's Github Stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-exe&layout=compact&&title_color=FFFFFF&text_color=FFFFFF&bg_color=25,DC4496,05B0FF)](https://github.com/cruzito-exe/github-readme-stats)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-exe&layout=compact&&title_color=FFFFFF&text_color=FFFFFF&bg_color=25,DC4496,05B0FF)](https://github.com/cruzito-exe/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=25,DC4496,05B0FF" alt="cruzito-exe's Github Stats">
 
 ### 💗 Contact me
 
