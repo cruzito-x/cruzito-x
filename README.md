@@ -1,9 +1,40 @@
-## alert('Hello World 👋🏻');
+<h2> alert('Hello World 👋🏻');
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="500"/>
 
-![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/54298536/217031919-cc63cf5a-fc60-47f2-93cd-7249f96e9f30.gif)
+### 👨🏻‍💻 About Me
 
-> I'm currently studying systems engineering. I'm a self-taught developer focused on frontend web development. My main web programming language is: Javascript. I'm always looking for new languages and challenges to learn from.
+- 🔭 &nbsp; I'm currently studying systems engineering.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-**You can follow me in the next sites** 😄
-- 📸 [Instagram](https://wwww.instagram.com/cruzito.rar "Personal Instagram")
-- 💼 [LinkedIn](https://www.linkedin.com/in/cruzito-exe "My LinkedIn")
+<h3> ⚙️ Tech Skills </h3>
+
+- 💻 &nbsp; Java 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React JS
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; VS Code | Git
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cruzito-exe/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/cruzito_exe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/cruzito.rar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/cruzito-exe/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:dcruzer92@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+<p align="center"> 🪐 by cruzito.exe </p>
