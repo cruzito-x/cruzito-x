@@ -23,7 +23,8 @@
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF" alt="cruzito-exe's Github Stats">
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF" alt="cruzito-exe's Github Stats"> -->
 
 ### 💗 Contact me
 
