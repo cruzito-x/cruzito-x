@@ -6,8 +6,9 @@
 ### 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; I'm currently studying systems engineering.
-- 🤔 &nbsp; Exploring new technologies and developing software apps based in this.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🤔 &nbsp; I explore new technologies and developing software apps based in this.
+- 🍀 &nbsp; Enthusiast in aplicated physics on development world.
+- ✍🏻 &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe a cup of coffee can be the perfect solution to stress.
 
 <h3> ⚙️ Tech Skills </h3>
