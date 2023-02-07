@@ -4,11 +4,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I'm currently studying systems engineering.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🎓 &nbsp; I'm currently studying systems engineering.
+- 🤔 &nbsp; Exploring new technologies and developing software apps based in this.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
@@ -28,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cruzito-exe/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 💗 Contact me
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/cruzito_exe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
