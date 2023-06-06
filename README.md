@@ -15,7 +15,7 @@
 - 💻 &nbsp; Java 
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React JS
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; VS Code | Git
+- 🔧 &nbsp; VS Code | Git | Azure DevOps
 
 <br>
 
