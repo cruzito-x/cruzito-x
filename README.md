@@ -13,7 +13,7 @@
 <h3> ⚙️ Tech Skills </h3>
 
 - 💻 &nbsp; Java 
-- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React JS
+- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React JS | Laravel
 - 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; VS Code | Git | Azure DevOps
 
