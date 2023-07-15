@@ -19,7 +19,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-exe&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF)](https://github.com/cruzito-exe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-rar&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF)](https://github.com/cruzito-exe/github-readme-stats)
 
 </br>
 
