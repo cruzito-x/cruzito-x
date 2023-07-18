@@ -1,6 +1,6 @@
 ## console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>');
 
-<img src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif" width="450" align="right" alt="gif"/>
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ece8100d32cbc308fc980646bd9c61a6-1597683230/semedar/create-cute-pixel-art-landscapes.gif" width="450" height="230" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
