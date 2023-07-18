@@ -1,8 +1,8 @@
-## <p align="center"> console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>'); </p>
+## <p> console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>'); </p>
 
 <!--<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif" style="filter: grayscale(100%);"/>-->
 
-<!--<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif" width="450" align="right" alt="gif"/>-->
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
@@ -31,11 +31,11 @@
 ### 💗 Contact me
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/cruzito_exe" target="_blank" rel="noopener noreferrer" title="My Twitter"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50"/></a>  
-&nbsp; <a href="https://www.instagram.com/cruzito.rar/" target="_blank" rel="noopener noreferrer" title="My Instagram"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/cruzito-exe/" target="_blank" rel="noopener noreferrer" title="My LinkedIn"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"/></a>
-&nbsp; <a href="mailto:dcruzer92@gmail.com" target="_blank" rel="noopener noreferrer" title="My Email"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/></a>
-&nbsp; <a href="https://portfolio-cruzito-exe.vercel.app/" target="_blank" rel="noopener noreferrer" title="My Portfolio"><img src="https://img.icons8.com/plasticine/256/github.png" width="50"/></a>
+&nbsp; <a href="https://discord.com/users/644250041594150914" target="_blank" rel="noopener noreferrer" title="My Discord"><img src="https://img.icons8.com/?size=512&id=5vPybqmRsPIK&format=png" width="50"/></a>  
+&nbsp; <a href="https://www.instagram.com/cruzito.rar/" target="_blank" rel="noopener noreferrer" title="My Instagram"><img src="https://img.icons8.com/?size=512&id=67564&format=png" width="50"/></a>  
+&nbsp; <a href="https://www.linkedin.com/in/cruzito-exe/" target="_blank" rel="noopener noreferrer" title="My LinkedIn"><img src="https://img.icons8.com/?size=512&id=67570&format=png" width="50"/></a>
+&nbsp; <a href="mailto:dcruzer92@gmail.com" target="_blank" rel="noopener noreferrer" title="My Email"><img src="https://img.icons8.com/?size=512&id=aZirgpcZkzvm&format=png" width="50"/></a>
+&nbsp; <a href="https://portfolio-cruzito-exe.vercel.app/" target="_blank" rel="noopener noreferrer" title="My Portfolio"><img src="https://img.icons8.com/?size=512&id=sbhfmWq4KRr1&format=png" width="50"/></a>
 </p>
 
 <p align="center"> 🪐 by <strong>cruzito.exe </strong> </p>
