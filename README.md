@@ -2,7 +2,7 @@
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif"/>
 
-[<img src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif" width="450" align="right" alt="gif">](url)
+<!--<img src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif" width="450" align="right" alt="gif">-->
 
 ### 👨🏻‍💻 About Me
 
@@ -21,12 +21,13 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-rar&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF)](https://github.com/cruzito-exe/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-rar&layout=compact&title_color=7F5D5D&text_color=7F5D5D&bg_color=50,FAF0E6,E6E6FA)](https://github.com/cruzito-exe/github-readme-stats)-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-rar&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=50,884744,B7605C)](https://github.com/cruzito-exe/github-readme-stats)
 </br>
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF" alt="cruzito-exe's Github Stats"> -->
+
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzito-rar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=50,DC4496,05B0FF" alt="cruzito-rar's Github Stats">-->
 
 ### 💗 Contact me
 
