@@ -1,6 +1,6 @@
 ## console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>');
 
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ece8100d32cbc308fc980646bd9c61a6-1597683230/semedar/create-cute-pixel-art-landscapes.gif" width="450" height="230" align="right" alt="gif"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
