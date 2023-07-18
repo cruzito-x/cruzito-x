@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 &nbsp; I'm currently studying systems engineering.
+- 🎓 &nbsp; I'm currently studying systems engineering and working how Software Developer.
 - 🤔 &nbsp; I explore new technologies and developing software apps based in this.
 - 🍀 &nbsp; Enthusiast in aplicated physics on development world.
 - ✍🏻 &nbsp; Watching anime and trying out latest design trends as hobbies/side hustles.
