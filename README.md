@@ -2,7 +2,7 @@
 
 <!--<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif" style="filter: grayscale(100%);"/>-->
 
-<img src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif" width="450" align="right" alt="gif"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
