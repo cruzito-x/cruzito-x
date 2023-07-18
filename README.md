@@ -1,8 +1,8 @@
 ## console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>');
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif" style="filter: grayscale(100%);"/>
+<!--<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif" style="filter: grayscale(100%);"/>-->
 
-<!--<img src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif" width="450" align="right" alt="gif">-->
+<img src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
@@ -16,8 +16,8 @@
 
 - 💻 &nbsp; Java 
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React JS | Laravel
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; VS Code | Git | Azure DevOps
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Xampp | VS Code | Git | Azure DevOps
 
 <br>
 
