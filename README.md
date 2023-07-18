@@ -2,6 +2,8 @@
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif"/>
 
+[<img src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif" width="450" align="right" alt="gif">](url)
+
 ### 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; I'm currently studying systems engineering.
