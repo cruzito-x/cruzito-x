@@ -39,4 +39,4 @@
 &nbsp; <a href="https://cruzito.vercel.app" target="_blank" rel="noopener noreferrer" title="My Portfolio"><img src="https://img.icons8.com/?size=512&id=sbhfmWq4KRr1&format=png" width="50"/></a>
 </p>
 
-<p align="center"> 🪐 by <strong>cruzito.exe </strong> </p>
+<p align="center"> 🪐 by <strong>cruzito.rar </strong> </p>
