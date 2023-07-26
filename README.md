@@ -4,7 +4,7 @@
 
 <!--<img src="https://camo.githubusercontent.com/2065e52ec642f161cde0afd0c90a5b354b0eef4bece73bc2ec27cae74353d0a4/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3263373738655f38396430396333383062376234613039626364626362333239633437333462337e6d76322e676966" alt="gif"/>-->
 
-<img src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="100%" alt="gif"/>
+<img src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="100%" height="400px" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
