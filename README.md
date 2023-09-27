@@ -1,8 +1,6 @@
 ## <p> console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>'); </p>
 
-<!--<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif" style="filter: grayscale(100%);"/>-->
-
-<img src="https://camo.githubusercontent.com/2065e52ec642f161cde0afd0c90a5b354b0eef4bece73bc2ec27cae74353d0a4/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3263373738655f38396430396333383062376234613039626364626362333239633437333462337e6d76322e676966" alt="gif"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About Me
 
