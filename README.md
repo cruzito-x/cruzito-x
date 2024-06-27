@@ -13,10 +13,10 @@
 <h3> ⚙️ Tech Skills </h3>
 
 - 💻 &nbsp; Java 
-- 🌐 &nbsp; HTML | CSS | Javascript | PHP | Bootstrap | jQuery | React JS | Laravel
-- 🛢 &nbsp; SQL | Node.js | MongoDB
-- 🔧 &nbsp; Xampp | VS Code | Git | Azure DevOps
-- 🎨 &nbsp; Figma | Photoshop
+- 🌐 &nbsp; HTML | CSS | Javascript | PHP | Bootstrap | jQuery | React.js | Laravel
+- 🛢 &nbsp; SQL | Express.js | MongoDB
+- 🔧 &nbsp; Xampp | Laragon | VS Code | Git | GitHub
+- 🎨 &nbsp; Figma
 
 <br>
 
