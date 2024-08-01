@@ -1,6 +1,6 @@
 ## <p> console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>'); </p>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/088/979/original/patty-dinio-gif.gif?1616690081" width="450" align="right" alt="gif"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About me
 
