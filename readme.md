@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About me
 
-- 🎓 &nbsp; I'm currently studying systems engineering and working as Software developer.
+- 🎓 &nbsp; I am currently pursuing a pre-major in cybersecurity engineering and have experience as a software engineer.
 - 🤔 &nbsp; I explore new technologies and developing software apps based in this.
 - 🍀 &nbsp; Enthusiast in aplicated physics on development world.
 - ✍🏻 &nbsp; Watching anime and trying out latest design trends as hobbies/side hustles.
@@ -12,10 +12,11 @@
 
 <h3> ⚙️ Tech skills </h3>
 
-- 💻 &nbsp; Java 
-- 🌐 &nbsp; HTML | CSS | JS | PHP | Bootstrap | jQuery | React.js | Laravel
-- 🛢 &nbsp; SQL | Express.js | MongoDB
-- 🔧 &nbsp; Xampp | Laragon | VS Code | Git | GitHub
+- 🖥️ &nbsp; Java 
+- 💻 &nbsp; HTML | CSS | JS | PHP | Bootstrap | jQuery | React.js
+- 🌐 &nbsp;Express.js| Laravel
+- 🛢 &nbsp; MySQL | SQL Server | PostgreSQL
+- 🔧 &nbsp; Xampp | Laragon | VS Code | Git | GitHub | Gitlab | Bitbucket
 - 🎨 &nbsp; Figma
 
 <br>
