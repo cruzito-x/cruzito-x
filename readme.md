@@ -16,7 +16,7 @@
 - 💻 &nbsp; HTML | CSS | JS | PHP | Bootstrap | jQuery | React.js
 - 🌐 &nbsp;Express.js | Laravel
 - 🛢 &nbsp; MySQL | SQL Server | PostgreSQL
-- 🔧 &nbsp; Xampp | Laragon | VS Code | Git | GitHub | GitLab | Bitbucket | Swagger
+- 🔧 &nbsp; Xampp | Laragon | VS Code | Git | Swagger
 - 🎨 &nbsp; Figma
 
 <br>
