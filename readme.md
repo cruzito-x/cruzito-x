@@ -1,6 +1,6 @@
 ## <p> console.log('Hello World <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="22"/>'); </p>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif" width="450" align="right" alt="gif"/>
+<img src="https://github.com/user-attachments/assets/c08cdd4b-a416-410a-97c4-c0e26787dc3b" width="450" align="right" alt="gif"/>
 
 ### 👨🏻‍💻 About me
 
