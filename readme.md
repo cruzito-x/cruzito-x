@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About me
 
-- 🎓 &nbsp; I am currently pursuing a pre-specialty in artificial intelligence engineering and have experience as a software engineer.
+- 🎓 &nbsp; I am an Artificial Intelligence engineering Specialty and have experience as a software engineer.
 - 🤔 &nbsp; I explore new technologies and developing software apps based in this.
 - 🍀 &nbsp; Enthusiast in aplicated physics on development world.
 - ✍🏻 &nbsp; Watching anime and trying out latest design trends as hobbies/side hustles.
