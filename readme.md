@@ -30,12 +30,6 @@
 
 ## ⚙️ Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8" alt="Tech stack" />
-</p>
-
-## ⚙️ Tech stack
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8"
