@@ -34,23 +34,42 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8" alt="Tech stack" />
 </p>
 
-**Databases:** MySQL · SQL Server · PostgreSQL
+## ⚙️ Tech stack
 
-**Tools:** XAMPP · Laragon · Git · Swagger · VS Code · Figma
-
-## 📊 GitHub stats
-
-<p>
+<p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=cruzito-rar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="GitHub statistics"
+    src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8"
+    alt="Main tech stack"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="48"
+    height="48"
+    alt="SQL Server"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzito-rar&layout=compact&hide_border=true&theme=transparent"
-    alt="Top languages"
+    src="https://cdn.simpleicons.org/xampp/FB7A24"
+    width="48"
+    height="48"
+    alt="XAMPP"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/laragon/0E83CD"
+    width="48"
+    height="48"
+    alt="Laragon"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+    width="48"
+    height="48"
+    alt="Swagger"
   />
 </p>
 
