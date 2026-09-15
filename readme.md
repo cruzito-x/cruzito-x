@@ -1,6 +1,6 @@
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;">
-<tr style="border:0;">
-<td width="60%" valign="top" style="border:0;padding:0 24px 0 0;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:0!important;border-collapse:collapse!important;">
+<tr style="border:0!important;">
+<td width="60%" valign="top" style="border:0!important;padding:0 24px 0 0;">
 <h3>👨🏻‍💻 About me</h3>
 <div>Software Engineer with a background in Artificial Intelligence Engineering, focused on building practical, reliable and well-designed software solutions.</div>
 <ul>
