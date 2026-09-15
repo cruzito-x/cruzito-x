@@ -22,18 +22,29 @@
 
 ## 👨🏻‍💻 About me
 
-- 🎓 AI Engineering student with experience as a software engineer.
-- 🧠 Interested in emerging technologies and building useful software applications.
-- ⚛️ Enthusiast of applied physics and its connection to software development.
-- 🎨 I enjoy anime, visual design, and exploring modern UI trends.
-- ☕ I believe coffee is a great debugging companion.
+Software Engineer with a background in Artificial Intelligence Engineering, focused on building practical, reliable and well-designed software solutions.
+
+- 🧠 I enjoy exploring emerging technologies and turning ideas into useful applications.
+- ⚙️ Interested in artificial intelligence, web development and thoughtful software architecture.
+- ⚛️ Curious about applied physics and its connection to technology and problem-solving.
+- 🎨 Outside of code, I enjoy anime, visual design and exploring modern UI trends.
+- ☕ Coffee remains an essential part of my debugging process.
 
 ## ⚙️ Tech stack
 
 ### 🖥️ Front-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&perline=6" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,jquery,react&perline=9" alt="Frontend technologies" />
+  &nbsp;&nbsp;
+  <a href="https://www.telerik.com/kendo-ui">
+    <img
+      src="https://www.telerik.com/sfimages/default-source/productsimages/kendo-ui-web/kui-jquery-logo-_50x50%402x-min.png?sfvrsn=9012a2ed_2"
+      width="48"
+      height="48"
+      alt="Kendo UI"
+    />
+  </a>
 </p>
 
 ### ⚙️ Back-end
@@ -53,7 +64,7 @@
 ### 🧰 Complementary tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma&perline=3" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma&perline=4" alt="Development tools" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />
   &nbsp;&nbsp;
