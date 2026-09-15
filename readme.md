@@ -30,42 +30,14 @@
 
 ## ⚙️ Tech stack
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8"
-    alt="Main tech stack"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-    width="48"
-    height="48"
-    alt="SQL Server"
-  />
-
-  <img
-    src="https://cdn.simpleicons.org/xampp/FB7A24"
-    width="48"
-    height="48"
-    alt="XAMPP"
-  />
-
-  <img
-    src="https://cdn.simpleicons.org/laragon/0E83CD"
-    width="48"
-    height="48"
-    alt="Laragon"
-  />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
-    width="48"
-    height="48"
-    alt="Swagger"
-  />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8" alt="Main tech stack" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="48" height="48" alt="Laragon" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+</div>
 
 ## 💗 Connect with me
 
