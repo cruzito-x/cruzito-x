@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Engineering Student · Software Engineer · Creative Technologist</strong>
+  <strong>AI Engineer · Software Engineer · Creative Technologist</strong>
 </p>
 
 <p align="center">
@@ -16,11 +16,12 @@
 <img
   align="right"
   src="https://github.com/user-attachments/assets/7f3cf744-b466-468b-a604-0d2e598fb964"
-  width="360"
+  width="420"
+  height="840"
   alt="Animated character"
 />
 
-## 👨🏻‍💻 About me
+### 👨🏻‍💻 About me
 
 Software Engineer with a background in Artificial Intelligence Engineering, focused on building practical, reliable and well-designed software solutions.
 
@@ -30,21 +31,12 @@ Software Engineer with a background in Artificial Intelligence Engineering, focu
 - 🎨 Outside of code, I enjoy anime, visual design and exploring modern UI trends.
 - ☕ Coffee remains an essential part of my debugging process.
 
-## ⚙️ Tech stack
+### ⚙️ Tech stack
 
 ### 🖥️ Front-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,jquery,react&perline=9" alt="Frontend technologies" />
-  &nbsp;&nbsp;
-  <a href="https://www.telerik.com/kendo-ui">
-    <img
-      src="https://www.telerik.com/sfimages/default-source/productsimages/kendo-ui-web/kui-jquery-logo-_50x50%402x-min.png?sfvrsn=9012a2ed_2"
-      width="48"
-      height="48"
-      alt="Kendo UI"
-    />
-  </a>
 </p>
 
 ### ⚙️ Back-end
@@ -73,7 +65,9 @@ Software Engineer with a background in Artificial Intelligence Engineering, focu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
 </p>
 
-## 💗 Connect with me
+<br clear="both" />
+
+### 💗 Connect with me
 
 <p>
   <a href="https://discord.com/users/644250041594150914">
