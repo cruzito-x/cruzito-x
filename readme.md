@@ -13,12 +13,13 @@
   <a href="mailto:dcruzer92@gmail.com">Email</a>
 </p>
 
-<img
-  align="right"
-  src="https://github.com/user-attachments/assets/7f3cf744-b466-468b-a604-0d2e598fb964"
-  width="330"
-  alt="Animated character"
-/>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/7f3cf744-b466-468b-a604-0d2e598fb964"
+    width="320"
+    alt="Animated character"
+  />
+</p>
 
 <h3>👨🏻‍💻 About me</h3>
 
@@ -34,8 +35,6 @@ focused on building practical, reliable and well-designed software solutions.
   <li>🎨 Outside of code, I enjoy anime, visual design and modern UI trends.</li>
   <li>☕ Coffee remains an essential part of my debugging process.</li>
 </ul>
-
-<br clear="right">
 
 <h3>⚙️ Tech stack</h3>
 
