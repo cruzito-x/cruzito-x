@@ -16,71 +16,122 @@
 <img
   align="right"
   src="https://github.com/user-attachments/assets/7f3cf744-b466-468b-a604-0d2e598fb964"
-  width="420"
-  height="840"
+  width="330"
   alt="Animated character"
 />
 
-### 👨🏻‍💻 About me
+<h3>👨🏻‍💻 About me</h3>
 
-Software Engineer with a background in Artificial Intelligence Engineering, focused on building practical, reliable and well-designed software solutions.
-
-- 🧠 I enjoy exploring emerging technologies and turning ideas into useful applications.
-- ⚙️ Interested in artificial intelligence, web development and thoughtful software architecture.
-- ⚛️ Curious about applied physics and its connection to technology and problem-solving.
-- 🎨 Outside of code, I enjoy anime, visual design and exploring modern UI trends.
-- ☕ Coffee remains an essential part of my debugging process.
-
-### ⚙️ Tech stack
-
-### 🖥️ Front-end
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,jquery,react&perline=9" alt="Frontend technologies" />
+<p>
+Software Engineer with a background in Artificial Intelligence Engineering,
+focused on building practical, reliable and well-designed software solutions.
 </p>
 
-### ⚙️ Back-end
+<ul>
+  <li>🧠 I enjoy exploring emerging technologies and turning ideas into useful applications.</li>
+  <li>⚙️ Interested in artificial intelligence, web development and software architecture.</li>
+  <li>⚛️ Curious about applied physics and its connection to technology.</li>
+  <li>🎨 Outside of code, I enjoy anime, visual design and modern UI trends.</li>
+  <li>☕ Coffee remains an essential part of my debugging process.</li>
+</ul>
+
+<br clear="right">
+
+<h3>⚙️ Tech stack</h3>
+
+<h3>🖥️ Front-end</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,express,laravel&perline=4" alt="Backend technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,jquery,react&perline=9"
+    alt="Frontend technologies"
+  />
 </p>
 
-### 🗄️ Databases
+<p align="center">
+  <a href="https://www.telerik.com/kendo-ui">
+    <img
+      src="https://www.telerik.com/sfimages/default-source/productsimages/kendo-ui-web/kui-jquery-logo-_50x50%402x-min.png?sfvrsn=9012a2ed_2"
+      width="48"
+      height="48"
+      alt="Kendo UI"
+    />
+  </a>
+</p>
+
+<h3>⚙️ Back-end</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="Database technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=java,php,express,laravel&perline=4"
+    alt="Backend technologies"
+  />
+</p>
+
+<h3>🗄️ Databases</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres&perline=2"
+    alt="Database technologies"
+  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="48"
+    height="48"
+    alt="SQL Server"
+  />
 </p>
 
-### 🧰 Complementary tools
+<h3>🧰 Complementary tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma&perline=4" alt="Development tools" />
-  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma&perline=4"
+    alt="Development tools"
+  />
+</p>
+
+<p align="center">
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="48" height="48" alt="Laragon" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+    width="48"
+    height="48"
+    alt="Swagger"
+  />
 </p>
 
-<br clear="both" />
-
-### 💗 Connect with me
+<h3>💗 Connect with me</h3>
 
 <p>
   <a href="https://discord.com/users/644250041594150914">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
   <a href="https://www.linkedin.com/in/cruzsv">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:dcruzer92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://cruzito.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
