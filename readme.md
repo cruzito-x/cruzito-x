@@ -30,14 +30,37 @@
 
 ## ⚙️ Tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,jquery,react,express,laravel,mysql,postgres,git,vscode,figma&perline=8" alt="Main tech stack" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="48" height="48" alt="Laragon" />&nbsp;&nbsp;
+### 🖥️ Front-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&perline=6" alt="Frontend technologies" />
+</p>
+
+### ⚙️ Back-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,express,laravel&perline=4" alt="Backend technologies" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="Database technologies" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+</p>
+
+### 🧰 Complementary tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma&perline=3" alt="Development tools" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="48" height="48" alt="Laragon" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
-</div>
+</p>
 
 ## 💗 Connect with me
 
