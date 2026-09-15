@@ -4,16 +4,16 @@
 </h1>
 
 <p align="center">
-  <code>AI Engineer</code> ·
-  <code>Software Engineer</code> ·
+  <code>AI Engineer</code> -
+  <code>Software Engineer</code> -
   <code>Creative Technologist</code>
 </p>
 
 <p align="center">
   <a href="https://cruzito.vercel.app">portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/cruzsv">linkedin</a>
-  ·
+  -
+  <a href="https://www.linkedin.com/in/cruzsv">linkedIn</a>
+  -
   <a href="mailto:dcruzer92@gmail.com">email</a>
 </p>
 
